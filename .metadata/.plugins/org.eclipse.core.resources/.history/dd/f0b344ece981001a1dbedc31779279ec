@@ -1,0 +1,13 @@
+package java9.collections;
+
+import java.util.Set;
+
+public class Test {
+
+	public static void main(String[] args) {
+//		Set<String> set = Set.of("A","B","C");
+//		System.out.println(set);
+		System.out.println("test");
+	}
+
+}
